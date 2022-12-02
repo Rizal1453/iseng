@@ -84,7 +84,7 @@
 //   );
 
  
-alert("hay sayaaang")
+alert("hay isriiiiiaaaaaaaaaa sayaaang")
 alert("maaf yaaah tadi aku typoooo")
 const maaf= true
 while(maaf){
